@@ -35,3 +35,4 @@
 
 ### 📫 Onde me encontrar:
 [!(https://www.linkedin.com/in/barbararuiz-ads/)]
+Email: Barbararuizmazzini1@gmail.com
