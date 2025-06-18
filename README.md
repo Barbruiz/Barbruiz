@@ -1,36 +1,34 @@
 # Barbruiz
-<h1 align="center">Oiiii! Eu sou a Barbara 😽🌸</h1>
+<h1 align="center">Hii, i'm Barbara 😽🌸</h1>
 
 <p align="center">
   <img src="https://github.com/Barbruiz/Barbruiz/blob/main/giphy.webp" width="200px" />
 </p>
 
-🌷 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonada por Front-end, HTML, CSS e DESIGN
-🚀 Em busca de uma oportunidade como estagiária em tecnologia
-🎀 Meu foco para meu primeiro estagio são na area de: Analista de sistema, Suporte de TI ou Dev front-end.✨
-
+🌷 Systems Analysis and Development Student
+💻 Passionate about Front-end, HTML, CSS and DESIGN
+🚀 Looking for an opportunity as a technology intern
+🎀 My focus for my first internship is in the area of: Systems Analyst, IT Support or Front-end Dev.✨
 ---
 
-### 💻 Tecnologias que estou aprendendo:
-- HTML5 & CSS3  
-- JavaScript  
-- Python  
+### 💻 Technologies I'm learning:
+- HTML5 & CSS3 
+- JavaScript 
+- Python 
 - Figma / UI Design
-
 ---
 
-### 📚 Estudando atualmente:
+### 📚 Currently studying:
 - Udemy: Domine Web
 - Fundação Bradesco: Python
 - Unicsul - São miguel
 ---
 
 ### 💖 Fun Facts:
-- Bilingue (inglês, espanhol) e aprendendo novas formas de me comunicar.
-- Video games, animes e viajar 🎀  
-- Sempre coloco um toque fofo nos meus projetos acho que é meu hiperfoco
-- Estou construindo meu portfólio 💫
+- Bilingual (English, Spanish) and learning new ways to communicate.
+- Video games, anime and traveling 🎀
+- I always add a cute touch to my projects, I think it's my hyperfocus
+- I'm building my portfolio 💫
   
 
 ---
