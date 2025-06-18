@@ -8,7 +8,7 @@
 🌷 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonada por Front-end, HTML, CSS e DESIGN
 🚀 Em busca de uma oportunidade como estagiária em tecnologia
-🎀 Meu foco para meu primeiro estagio são na area de: Analista de sistema, Suporte de TI, Dev front-end.✨
+🎀 Meu foco para meu primeiro estagio são na area de: Analista de sistema, Suporte de TI ou Dev front-end.✨
 
 ---
 
