@@ -22,7 +22,7 @@
 ### 📚 Estudando atualmente:
 - Udemy: Domine Web
 - Fundação Bradesco: Python
-- Universidade cruzeiro do sul 
+- Unicsul - São miguel
 ---
 
 ### 💖 Fun Facts:
