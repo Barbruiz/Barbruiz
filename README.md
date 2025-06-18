@@ -1,5 +1,5 @@
 # Barbruiz
-<h1 align="center">Olá! Eu sou a Barbara 😽🌸</h1>
+<h1 align="center">Oiiii! Eu sou a Barbara 😽🌸</h1>
 
 <p align="center">
   <img src="https://github.com/Barbruiz/Barbruiz/blob/main/giphy.webp" width="200px" />
