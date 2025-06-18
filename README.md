@@ -33,6 +33,6 @@
 
 ---
 
-### 📫 Onde me encontrar:
+### 📫Where to find me:
 [!(https://www.linkedin.com/in/barbararuiz-ads/)]
-Email: Barbararuizmazzini1@gmail.com / Cel: 11981339452 / São Paulo, SP.
+Email: Barbararuizmazzini1@gmail.com / 📍 São Paulo, SP.
