@@ -27,9 +27,11 @@
 ---
 
 ### 💖 Fun Facts:
+- Bilingue (inglês, espanhol) e aprendendo novas formas de me comunicar.
 - Video games, animes e viajar 🎀  
 - Sempre coloco um toque fofo nos meus projetos acho que é meu hiperfoco
 - Estou construindo meu portfólio 💫
+  
 
 ---
 
