@@ -25,7 +25,7 @@
 ---
 
 ### 💖 Fun Facts:
-- Bilingual (English, Spanish) and learning new ways to communicate.
+- Bilingual (English, Spanish) and always seeking to learn new languages.
 - Video games, anime and traveling 🎀
 - I always add a cute touch to my projects, I think it's my hyperfocus
 - I'm building my portfolio 💫
